@@ -60,7 +60,7 @@ My name is <b>Sneha Rag</b> and I'm a Python Full Stack Developer from Kannur, K
 
 <p align="left">
 📖 BookAura - Django-based E-commerce Book Platform<br>
-🌐 PRODIGY_FS_1 - Full Stack Development Project<br>
+🌐 GaragePro - Garage Service Tracking System<br>
 ⚡ Multiple Django and Web Development Projects
 </p>
 
@@ -76,6 +76,6 @@ My name is <b>Sneha Rag</b> and I'm a Python Full Stack Developer from Kannur, K
 <h2 align="left">Connect with me</h2>
 
 <p align="left">
-💼 LinkedIn: Your LinkedIn Profile Link<br>
-📂 GitHub: Your GitHub Profile Link
+💼 LinkedIn: https://www.linkedin.com/in/sneha-rag-912299254/ <br>
+📂 GitHub: 
 </p>
